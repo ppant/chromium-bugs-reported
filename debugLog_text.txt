@@ -1,0 +1,48 @@
+Add a query param in URL to auto-refresh the page: chrome://device-log/?refresh=<sec>
+Refresh Clear Log Level: 
+Debug
+  File Info  Detailed Timestamps
+Clear Types  Login  Network  Power  Bluetooth  USB  HID  Printer  FIDO  Serial  Camera  Geolocation  Extensions
+PrinterEvent[09:45:32] printer_capabilities.cc:215 Got printer capabilities for HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:45:16] printer_capabilities.cc:207 Get printer capabilities start for HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:45:16] local_printer_handler_default.cc:196 Got basic info for HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:45:16] local_printer_handler_default.cc:310 Getting printer capabilities in-process for HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:45:16] local_printer_handler_default.cc:165 Enumerated 7 printer(s)
+
+PrinterEvent[09:45:16] local_printer_handler_default.cc:279 Enumerate printers start in-process
+
+PrinterEvent[09:45:16] local_printer_handler_default.cc:227 Default Printer: HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:45:16] local_printer_handler_default.cc:254 Getting default printer in-process
+
+PrinterEvent[09:43:53] printer_capabilities.cc:215 Got printer capabilities for HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:43:36] printer_capabilities.cc:207 Get printer capabilities start for HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:43:36] local_printer_handler_default.cc:196 Got basic info for HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:43:36] local_printer_handler_default.cc:310 Getting printer capabilities in-process for HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:43:32] local_printer_handler_default.cc:165 Enumerated 7 printer(s)
+
+PrinterEvent[09:43:32] local_printer_handler_default.cc:279 Enumerate printers start in-process
+
+PrinterEvent[09:43:32] local_printer_handler_default.cc:227 Default Printer: HP1AFD79 (HP Ink Tank Wireless 410 series)
+
+PrinterEvent[09:43:32] local_printer_handler_default.cc:254 Getting default printer in-process
+
+USBUser[09:40:21] usb_service_win.cc:739 USB device added: path=\\?\usb#vid_0bda&pid_0823#00e04c000001#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=3034 "Realtek", product=2083 "B1640100857", serial="00e04c000001", driver="usbccgp", guid=7b2b9f04-8a95-4374-84e4-6d477577bc55
+
+USBUser[09:40:21] usb_service_win.cc:739 USB device added: path=\\?\usb#vid_046d&pid_0829#7&369b33ac&0&1#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=1133 " ", product=2089 "Webcam C110", serial="", driver="usbccgp", guid=cb895805-d438-4d34-be9e-7515feacbf9f
+
+USBUser[09:40:21] usb_service_win.cc:739 USB device added: path=\\?\usb#vid_0bda&pid_0157#20120926571200000#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=3034 "Generic", product=343 "USB2.0-CRW", serial="20120926571200000", driver="RTSUER", guid=cce8c3ed-7d87-4d14-9f7c-4aef1cc5fcf7
+
+USBUser[09:40:21] usb_service_win.cc:739 USB device added: path=\\?\usb#vid_046d&pid_0a29#000d44d4218f#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=1133 "Logitech", product=2601 "Logitech Wireless Headset", serial="000D44D4218F", driver="usbccgp", guid=6518a9ac-d4be-47ff-ae7d-274421292fb7
+
+USBUser[09:40:21] usb_service_win.cc:739 USB device added: path=\\?\usb#vid_046d&pid_c534#8&3117cc1a&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed} vendor=1133 "Logitech", product=50484 "USB Receiver", serial="", driver="usbccgp", guid=9f6499ee-3e32-498a-b8a3-6ba5986c37ef
+
+BluetoothEvent[09:40:18] bluetooth_api.cc:82 BluetoothAPI: 000051F4000F9400
